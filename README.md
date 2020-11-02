@@ -5,7 +5,7 @@
 
 ## 💡 Proposta
 <i>A sua música em todo lugar e a tecnologia democratizando o acesso para revelar verdadeiros artistas. </i>
-Um ranking multiplataforma e inteligente que utiliza inteligência artificial e machine learning para promover novos artistas, a partir das músicas mais ouvidas e utilizadas nas mídias sociais. Além disso colabora com a distribuição das músicas em diferentes canais e entrega vídeos para lançamento em plataformas audiovisuais.
+Um ranking multiplataforma que utiliza inteligência artificial e machine learning para promover novos artistas, a partir das músicas mais ouvidas e utilizadas nas mídias sociais. Além disso colabora com a distribuição das músicas em diferentes canais e entrega vídeos para lançamento em plataformas audiovisuais.
   
 ### 🎶 Potencializando a música e a arte:
 - Facilita o upload das músicas para várias plataformas
@@ -30,12 +30,11 @@ Usamos integrações de APIs e sistemas de *Natural Language Understand* para ge
   - Gerenciamento de vários artistas de forma centralizada
   - Acompanhamento de ganhos e desempenhos para várias plataformas
 
-
 ## ⚙ Tecnologias
 
 - [NodeJS](https://nodejs.org/)
 - [React](https://reactjs.org/)
-- 
+
 ### 🤖 IA
 - [Algorithmia](https://algorithmia.com/)
 - [IBM Watson](https://cloud.ibm.com/login)
